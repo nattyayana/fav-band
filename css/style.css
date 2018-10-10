@@ -3,11 +3,15 @@
     float: right;
     background-color: yellow;
 
+
 }
 
 .column {
 
   width: 300px;
   float: left;
-
+  border: 2px solid green;
+  padding: 8px;
+  margin: 10px;
+  background-color: orange;
 }
